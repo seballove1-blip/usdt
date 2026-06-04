@@ -23,7 +23,7 @@ https://tronscan.org/v1/#/contract/TQkTjRhqDs3GajpPMSCJN62Eda3Q7g3PzT
 
 ## Logo
 
-https://raw.githubusercontent.com/lazyyalmaz-alt/usdt/main/logo.png"
+https://raw.githubusercontent.com/seballove1-blip/usdt/main/logo.png
 
 ## Disclaimer
 
