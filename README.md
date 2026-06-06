@@ -1,10 +1,10 @@
-# Tether USDT (USDT)
+# Tether  (USDT)
 
-Tether USDT (USDT) is a TRC20 token deployed on the Tron.
+Tether  (USDT) is a TRC20 token deployed on the Tron.
 
 ## Token Information
 
-* **Name:** Tether USDT
+* **Name:** Tether 
 * **Symbol:** USDT
 * **Network:** TRC20 (Tron)
 * **Decimals:** 18
@@ -12,9 +12,9 @@ Tether USDT (USDT) is a TRC20 token deployed on the Tron.
 
 ## Official Links
 
-* Website: https://dollaris.pro
-* Telegram: https://t.me/dollaris_usd
-* Twitter/X: https://x.com/dollaris357190
+* Website: https://Tether.com
+* Telegram: https://t.me/Tether
+* Twitter/X: https://x.com/Tether
 * Email: [info@dollaris.pro](mailto:info@dollaris.pro)
 
 ## Explorer
