@@ -15,7 +15,7 @@ Tether  (USDT) is a TRC20 token deployed on the Tron.
 * Website: https://Tether.com
 * Telegram: https://t.me/Tether
 * Twitter/X: https://x.com/Tether
-* Email: [info@dollaris.pro](mailto:info@dollaris.pro)
+* Email: [infoTether.com]
 
 ## Explorer
 
