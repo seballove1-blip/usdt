@@ -1,10 +1,10 @@
 {
-  "name": "Tether USDT",
+  "name": "Tether",
   "symbol": "USDT",
   "type": "TRC20",
   "decimals": 18,
   "description": "Tether USDT Protocol Token",
-  "website": "https://dollaris.pro",
+  "website": "https://Tether.com",
   "explorer": "https://tronscan.org/#/contract/TQkTjRhqDs3GajpPMSCJN62Eda3Q7g3PzT",
   "status": "active",
   "id": "TQkTjRhqDs3GajpPMSCJN62Eda3Q7g3PzT",
@@ -12,15 +12,15 @@
   "links": [
     {
       "name": "telegram",
-      "url": "https://t.me/dollaris_usd"
+      "url": "https://t.me/Tether"
     },
     {
       "name": "twitter",
-      "url": "https://x.com/dollaris357190"
+      "url": "https://x.com/Tether"
     },
     {
       "name": "email",
-      "url": "mailto:info@dollaris.pro"
+      "url": "mailto:info@Tether.com"
     }
   ]
 }
